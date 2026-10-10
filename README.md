@@ -1,12 +1,12 @@
 # 💫 About Me
 Full Stack Developer | 1 YOE | React.js, Node.js, Express.js, MongoDB, TypeScript, Next.js, Redux, REST APIs, AWS EC2, Tailwind CSS | Immediate Joiner (5 Days) | Bengaluru (Open to Relocate)
 
-- 🔭 **Current Work:** Shipping production features for AgentOne (50+ active agents) using React, Node.js, TypeScript, and AWS EC2[cite: 1].
-- 🧠 **AI & LLM Systems:** Building production GenAI workflows with Google Gemini API, Zod schema validation, and pgvector semantic search[cite: 1].
-- 🌱 **Learning & Scale:** Asynchronous background job processing with Upstash Redis + BullMQ, and vector index tuning (HNSW)[cite: 1].
-- 💬 **Ask Me About:** React architecture, Express REST APIs, Socket.io real-time chat, and fixing slow database queries[cite: 1].
-- 📫 **Contact:** karthikh.cse.rymec@gmail.com | +91 7090803757[cite: 1]
-- ⚡ **Performance Highlight:** Cut MongoDB search latency by 73% (from 3.2s to 850ms) using compound indexes on production APIs[cite: 1].
+- 🔭 **Current Work:** Shipping production features for AgentOne (50+ active agents) using React, Node.js, TypeScript, and AWS EC2.
+- 🧠 **AI & LLM Systems:** Building production GenAI workflows with Google Gemini API, Zod schema validation, and pgvector semantic search.
+- 🌱 **Learning & Scale:** Asynchronous background job processing with Upstash Redis + BullMQ, and vector index tuning (HNSW).
+- 💬 **Ask Me About:** React architecture, Express REST APIs, Socket.io real-time chat, and fixing slow database queries.
+- 📫 **Contact:** karthikh.cse.rymec@gmail.com 
+- ⚡ **Performance Highlight:** Cut MongoDB search latency by 73% (from 3.2s to 850ms) using compound indexes on production APIs.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-h-623439355) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikh.cse.rymec@gmail.com)
@@ -16,12 +16,12 @@ Full Stack Developer | 1 YOE | React.js, Node.js, Express.js, MongoDB, TypeScrip
 # 💼 Experience
 
 ### **Junior Full Stack Developer** | SCWEBS Info Solutions Pvt. Ltd.
-*Sep 2025 – Present | Bengaluru, India*[cite: 1]
+*Sep 2025 – Present | Bengaluru, India*
 
-- **AgentOne (Live Real Estate Platform):** Built 15+ reusable React/Tailwind UI components and 12+ Express REST APIs serving 50+ active property agents across 5 cities[cite: 1].
-- **Database Optimization:** Profiled MongoDB queries and added compound indexes, cutting property search latency by **73% (from ~3.2s to 850ms)**[cite: 1].
-- **Real-Time Systems:** Integrated Socket.io with Redis adapters for real-time buyer-agent messaging without page refresh lag[cite: 1].
-- **Cloud & Deployment:** Deployed web services to AWS EC2 behind an Nginx reverse proxy with SSL and gzip compression[cite: 1].
+- **AgentOne (Live Real Estate Platform):** Built 15+ reusable React/Tailwind UI components and 12+ Express REST APIs serving 50+ active property agents across 5 cities.
+- **Database Optimization:** Profiled MongoDB queries and added compound indexes, cutting property search latency by **73% (from ~3.2s to 850ms)**.
+- **Real-Time Systems:** Integrated Socket.io with Redis adapters for real-time buyer-agent messaging without page refresh lag.
+- **Cloud & Deployment:** Deployed web services to AWS EC2 behind an Nginx reverse proxy with SSL and gzip compression.
 - **E-Commerce Data Tools:** Developed custom backend extensions for an enterprise catalog (500+ items), cutting product load times from ~4s to under 2s.
 
 ---
